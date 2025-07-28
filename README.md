@@ -111,11 +111,6 @@ docker run --rm \
 - Check Docker platform compatibility (linux/amd64)
 - Monitor execution time and adjust document count if needed
 
-### Scoring Optimization
-The solution is optimized for the contest scoring criteria:
-- **Section Relevance (60 points)**: Advanced semantic matching and persona-aware ranking
-- **Sub-Section Relevance (40 points)**: Sentence-level analysis with intelligent text refinement
-
 For questions or issues, refer to the approach_explanation.md for detailed technical information.
 ```
 
